@@ -239,3 +239,6 @@ This repository serves as the official landing page for IKARUS Antivirus. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of IKARUS Antivirus today!**
+
+---
+**Last updated:** 2026-09-11 16:56:19 UTC
