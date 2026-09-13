@@ -241,4 +241,4 @@ This repository serves as the official landing page for IKARUS Antivirus. The so
 **Get the most recent version of IKARUS Antivirus today!**
 
 ---
-**Last updated:** 2026-09-12 23:55:24 UTC
+**Last updated:** 2026-09-13 03:52:37 UTC
